@@ -195,8 +195,8 @@ namespace UnitTestProject1
             {
                 for (int j = 0; j < 5; j++)
                 {
-                    Class1.matrix[i, j] = i+1; // например, заполняем такими числами
-                    expected[i, j] = i+1;
+                    Class1.matrix[i, j] = i + 1; // например, заполняем такими числами
+                    expected[i, j] = i + 1;
                 }
             }
 
